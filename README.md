@@ -8,20 +8,32 @@
 Иерархическая структура работ включает этапы анализа, проектирования, разработки, тестирования, внедрения и сопровождения, причём каждый этап детализируется на подзадачи в соответствии с первой рейтинговой работой.
 
 # Разработка информационной системы автоматизации взаимодействий с клиентами (от первого касания до заключения договора) 
-<img width="974" height="1064" alt="image" src="https://github.com/user-attachments/assets/1dd12419-4185-498c-9448-19031fcb238d" />
-Рисунок 1 - Разработка модели бизнес-процессов
- <img width="974" height="411" alt="image" src="https://github.com/user-attachments/assets/b8f5d9e5-1088-4617-83a9-f61d2b94bba1" />
-Рисунок 2 – Диаграмма компонентов
- <img width="564" height="928" alt="image" src="https://github.com/user-attachments/assets/3ed6a449-3cae-4c4b-a9a4-69b895848e0c" />
-Рисунок 3 – Модель данных
- <img width="822" height="1072" alt="image" src="https://github.com/user-attachments/assets/15bcf6cd-3c82-46cb-ba4b-2d34823c38d5" />
-Рисунок 4 – Диаграмма классов
- <img width="770" height="1518" alt="image" src="https://github.com/user-attachments/assets/fae4f72d-58d4-4676-924f-7cadc08bdd3e" />
-Рисунок 5 – Диаграмма состояний
- <img width="974" height="577" alt="image" src="https://github.com/user-attachments/assets/897186ae-4f40-420b-bc61-2212e8b48e76" />
-Рисунок 6 – Диаграмма взаимодействий
- <img width="689" height="973" alt="image" src="https://github.com/user-attachments/assets/087cfea8-baea-4af7-8914-f811cf98eec3" />
 
+<img width="974" height="1064" alt="image" src="https://github.com/user-attachments/assets/1dd12419-4185-498c-9448-19031fcb238d" />
+
+Рисунок 1 - Разработка модели бизнес-процессов
+ 
+ <img width="974" height="411" alt="image" src="https://github.com/user-attachments/assets/b8f5d9e5-1088-4617-83a9-f61d2b94bba1" />
+
+Рисунок 2 – Диаграмма компонентов
+ 
+ <img width="564" height="928" alt="image" src="https://github.com/user-attachments/assets/3ed6a449-3cae-4c4b-a9a4-69b895848e0c" />
+
+Рисунок 3 – Модель данных
+ 
+ <img width="822" height="1072" alt="image" src="https://github.com/user-attachments/assets/15bcf6cd-3c82-46cb-ba4b-2d34823c38d5" />
+
+Рисунок 4 – Диаграмма классов
+ 
+ <img width="770" height="1518" alt="image" src="https://github.com/user-attachments/assets/fae4f72d-58d4-4676-924f-7cadc08bdd3e" />
+
+Рисунок 5 – Диаграмма состояний
+ 
+ <img width="974" height="577" alt="image" src="https://github.com/user-attachments/assets/897186ae-4f40-420b-bc61-2212e8b48e76" />
+
+Рисунок 6 – Диаграмма взаимодействий
+ 
+ <img width="689" height="973" alt="image" src="https://github.com/user-attachments/assets/087cfea8-baea-4af7-8914-f811cf98eec3" />
 
 # Заключение
 По каждому разделу сделаны выводы: предметная область CRM требует автоматизации сквозного процесса, классификация объектов выделила три логические группы, требования покрывают ключевые боли пользователей, модель бизнес-процессов BPMN показала потоки, архитектура компонентная и масштабируемая, модель данных нормализована, диаграмма классов и состояний отражает логику, риски управляемы через Agile, выбран Scrum как оптимальная модель, диаграммы взаимодействий и активности детализируют сценарии, интерфейс прототипирован, интеграции определены, технологии выбраны под задачи, тестирование комплексное, развёртывание облачное, безопасность многоуровневая, метрики измеримы, документация по ГОСТ, план внедрения пошаговый, объектно-ориентированный метод проектирования предпочтительнее. Все диаграммы PlantUML включены в отчёт и соответствуют стандартам UML.
